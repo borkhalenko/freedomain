@@ -1,0 +1,30 @@
+/* borkhalenko.freedomain.thehost.com.ua */
+body {
+    background-color: #336633
+}
+.smallTile{
+    list-style-type: none;
+}
+.smallTile a{
+    display: block;
+	float: left;
+	height: 70px;
+	width: 150px;
+	padding: 10px;
+	background-color:#720CAA;
+	color: #ffffff;
+	margin: 10px;
+	text-decoration: none;
+    text-align: center;
+	font-family: "Courier New";
+	border-radius: 5px;
+	//box-shadow: 1px 1px 2px #999;
+}
+.smallTile a:hover{
+	background-color: #49046f;
+}
+.smallTile a p{
+    display: block;
+    padding-top: 5px;
+    
+}

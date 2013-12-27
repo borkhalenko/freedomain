@@ -1,0 +1,34 @@
+/* borkhalenko.freedomain.thehost.com.ua/algorithms/ */
+body{
+    background-color: #087d9f;
+}
+
+#booble_short{
+	display: table;
+	margin: 10px;
+	padding: 10px;
+	border: 1px double white;
+	list-style-type: none;
+}
+
+.booble_element{
+	display: table;
+	float: left;
+	vertical-align: middle;
+	background-color: yellow;
+	width: 40px;
+    height: 40px;
+	margin: 10px;
+	padding: 0px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+
+.booble_element p{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	margin:0;
+}
+
