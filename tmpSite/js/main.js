@@ -1,6 +1,4 @@
 /* borkhalenko.freedomain.thehost.com.ua/algorithms/ */
-body{
-    background-color: #ffd800;
-}
+window.onload = function () {
 
-
+};
